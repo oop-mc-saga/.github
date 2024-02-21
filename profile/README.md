@@ -7,9 +7,7 @@ It also provides tools for efficient program development through super classes a
 This series of courses treats OOP with Java and provides some practical examples
 
 ## Contents
-1. Introduction: The purpose of this lecture
-
-https://github.com/oop-mc-saga/docs/01_Introduction.pdf
+1. [Introduction: The purpose of this lecture]<https://github.com/oop-mc-saga/.github/pdf/01_Introduction.pdf>
 
 https://github.com/oop-mc-saga/Sort
 
