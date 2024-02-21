@@ -7,23 +7,35 @@ The OOP helps to create relations between real-world object and programs.  It al
 This series of courses treats OOP with Java and provides some practical examples
 
 ## Contents
-1. Introduction: The purpose of this lecture: 
+1. Introduction: The purpose of this lecture
+
+https://github.com/oop-mc-saga/docs/01_Introduction.pdf
 
 https://github.com/oop-mc-saga/Sort
 
 2. Using interfaces
 
+https://github.com/oop-mc-saga/docs/02_Interfaces.pdf
+
 3. Extracting superclass
 
+https://github.com/oop-mc-saga/docs/03_Superclasses.pdf
+
 4. Thread and runnable interfaces
+
+https://github.com/oop-mc-saga/docs/04_ThreadsAndRunnable.pdf
 
 https://github.com/oop-mc-saga/Thread
 
 5. Collections and lambda
 
+https://github.com/oop-mc-saga/docs/05_CollectionsAndLamdaExpressions.pdf
+
 https://github.com/oop-mc-saga/Lambda
 
 6. Strings and regular expressions
+
+https://github.com/oop-mc-saga/docs/06_StringsAndRegularExpressions.pdf
 
 https://github.com/oop-mc-saga/StringsAndRegularExpressions
 
