@@ -1,8 +1,8 @@
 # Lecture on Object Oriented Programming
 
 Object-oriented programming is a programming paradigm that treats the subject matter of information processing as objects that are composed of data and their operations.
-
-The OOP helps to create relations between real-world object and programs.  It also provides tools for efficient program development through super classes and inheritance. 
+The OOP helps to create relations between real-world object and programs.
+It also provides tools for efficient program development through super classes and inheritance. 
 
 This series of courses treats OOP with Java and provides some practical examples
 
