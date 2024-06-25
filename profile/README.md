@@ -7,39 +7,39 @@ It also provides tools for efficient program development through super classes a
 This series of courses treats OOP with Java and provides some practical examples
 
 ## Contents
-1. [Introduction: The purpose of this lecture](../../../text/01_Introduction.pdf)
+1. [Introduction: The purpose of this lecture](./01_Introduction.pdf)
 
 https://github.com/oop-mc-saga/Sort
 
-2. Using interfaces
+2. [Using interfaces](./02_Interfaces.pdf)
 
-3. Extracting superclass
+3. [Extracting superclass](./03_Superclasses.pdf)
 
-4. Thread and runnable interfaces
+4. [Thread and runnable interfaces](./04_ThreadsAndRunnable.pdf)
 
 https://github.com/oop-mc-saga/Thread
 
-5. Collections and lambda
+5. [Collections and lambda](./05_CollectionsAndLamdaExpressions.pdf)
 
 https://github.com/oop-mc-saga/Lambda
 
-6. Strings and regular expressions
+6. [Strings and regular expressions](06_StringsAndRegularExpressions.pdf)
 
 https://github.com/oop-mc-saga/StringsAndRegularExpressions
 
-7. Exercise
+7. [Exercise](./07_Midterm_report.pdf)
 
-8. Manipulating files and IO exceptions
+8. [Manipulating files and IO exceptions](./08_FileIO.pdf)
 
 https://github.com/oop-mc-saga/FileIOExamples
 
-9. Graphical user interface: using widgets
+9. [Graphical user interface: using widgets](./09_GUI1.pdf)
 
 https://github.com/oop-mc-saga/GUI1
 
-10. Graphical user interface: adding actions to widgets
+10. [Graphical user interface: adding actions to widgets](./10_GUI2.pdf)
 
-11. Events and their handling
+11. [Events and their handling](./11_Event.pdf)
 
 https://github.com/oop-mc-saga/ColorChoic
 
