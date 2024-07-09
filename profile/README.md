@@ -43,15 +43,15 @@ https://github.com/oop-mc-saga/GUI1
 
 https://github.com/oop-mc-saga/ColorChoic
 
-12. Graphical user interface: drawing
+12. [Graphical user interface: drawing](./12_GUI3.pdf)
 
 https://github.com/oop-mc-saga/GUI2
 
-13. Example: fractals
+13. [Example: fractals](./13_Fractals.pdf)
 
 https://github.com/oop-mc-saga/Fractal
 
-14. Example: Random Walk
+14. [Example: Random Walk](./14_RandomWalk.pdf)
 
 https://github.com/oop-mc-saga/RandomWalk
 
